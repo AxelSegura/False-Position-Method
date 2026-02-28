@@ -1,5 +1,5 @@
 # False-Position-Method
-A phyton program with capacity of create a solution for False Position Method
+A python program with capacity of create a solution for False Position Method
 
 The program is structured using def, while, and if statements to organize and control the execution of the algorithm.
 
